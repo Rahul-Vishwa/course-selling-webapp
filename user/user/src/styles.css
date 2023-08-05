@@ -1,0 +1,66 @@
+.basicflex{
+    display: flex;
+    justify-content: space-between;
+}
+.normalflex{
+    display: flex;
+}
+.flexdirect{
+    flex-direction: column;
+}
+.alignflexcenter{
+    justify-content: center;
+}
+.appname{
+    margin-left: 60px;
+    padding-top: 10px;
+    color: #05386b;
+}
+.appbarbuttons{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+}
+.appbarbutton{
+    margin-right: 20px;
+}
+.basiccard{
+    width: 400px;
+}
+
+.textfield{
+    width: 100%;
+}
+.textfieldcontainer{
+    padding: 20px 20px 0px 20px;
+}
+.buttoncontainer{
+    padding: 20px 0px 20px 20px;
+}
+.formcontainer{
+    margin-top: 100px;
+}
+.signupcontainer{
+    flex-direction: column;
+    padding-top: 100px;
+}
+.welcometext{
+    margin-bottom: 10px;
+}
+.errordisplay{
+    color: red;
+    font-size: 20px;
+}
+.coursescard{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.coursebyid{
+    flex-direction: column;
+}
+.purchasedcourse{
+    padding-top: 40px;
+    justify-content: space-evenly;
+}
