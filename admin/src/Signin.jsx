@@ -12,7 +12,7 @@ function Signin(){
     return<div>
         <div style={{display:"flex", justifyContent:"center", paddingTop:"100px"}}>
             <Typography variant={"h6"}>
-                Welcome to Coursera. Sign in below.
+                Welcome to CourseIt. Sign in below.
             </Typography> 
         </div>
     <div style={{display:"flex", justifyContent:"center", marginTop:"10px"}}>

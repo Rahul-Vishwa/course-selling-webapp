@@ -23,7 +23,7 @@ function Appbar(){
         return <div className='basicflex appbar'>
             <div className='appname'>
                 <Typography variant='h5' fontWeight={800}>
-                    Coursera
+                    CourseIt
                 </Typography>
             </div>
             <div className='basicflex appbarbuttons'>
@@ -49,7 +49,7 @@ function Appbar(){
     return <div className='basicflex appbar'>
         <div className='appname'>
             <Typography variant='h5' fontWeight={800}>
-                Coursera
+                CourseIt
             </Typography>
         </div>
         <div className='basicflex appbarbuttons'>

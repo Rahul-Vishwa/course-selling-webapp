@@ -16,7 +16,7 @@ function Addcourse(){
     return<div>
         <div style={{display:"flex", justifyContent:"center", paddingTop:"100px"}}>
             <Typography variant={"h6"}>
-                Welcome to Coursera. Add courses below.
+                Welcome to CourseIt. Add courses below.
             </Typography> 
         </div>
     <div style={{display:"flex", justifyContent:"center", marginTop:"10px"}}>

@@ -17,7 +17,7 @@ function Signup(){
     return <div className='signupcontainer normalflex'>
         <div className='normalflex alignflexcenter welcometext'> 
             <Typography variant='h6' fontWeight={700} color={'#05386b'}>
-                Welcome to Coursera. Sign up below.
+                Welcome to CourseIt. Sign up below.
             </Typography>
         </div>
         <div className='basicflex alignflexcenter cardcontainer'>

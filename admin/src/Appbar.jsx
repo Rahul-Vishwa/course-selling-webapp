@@ -27,7 +27,7 @@ function Appbar(){
         }}>
         <div style={{marginLeft:'20px'}}>
             <Typography variant="h5">
-                Coursera
+                CourseIt
             </Typography>
         </div>
         <div style={{display:'flex'}}>
@@ -53,7 +53,7 @@ function Appbar(){
             }}>
             <div style={{marginLeft:'20px'}}>
                 <Typography variant="h5">
-                    Coursera
+                    CourseIt
                 </Typography>
             </div>
             <div style={{display:'flex'}}>
